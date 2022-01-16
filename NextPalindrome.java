@@ -1,4 +1,4 @@
-package collectionz;
+package infytq;
 
 //Java program to find next smallest 
 //palindrome
